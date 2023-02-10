@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Noemiportillo/Contador-clics.git/static/css/main.b56f1b32.css",
+    "main.js": "/Noemiportillo/Contador-clics.git/static/js/main.91abc114.js",
+    "index.html": "/Noemiportillo/Contador-clics.git/index.html",
+    "main.b56f1b32.css.map": "/Noemiportillo/Contador-clics.git/static/css/main.b56f1b32.css.map",
+    "main.91abc114.js.map": "/Noemiportillo/Contador-clics.git/static/js/main.91abc114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b56f1b32.css",
+    "static/js/main.91abc114.js"
+  ]
+}
